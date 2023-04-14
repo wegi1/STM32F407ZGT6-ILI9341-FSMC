@@ -15,7 +15,7 @@
 ![Screenshot](/02.jpg)
 
 # Board top
-![Screenshot](/03.gif)
+![Screenshot](/03.jpg)
 
 # MCU STM32F407ZGT6
 ![Screenshot](/04.jpg)
