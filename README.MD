@@ -11,7 +11,7 @@
 # Board & TFT_LCD assembled
 ![Screenshot](/01.jpg)
 
-# Board botoom
+# Board bottom
 ![Screenshot](/02.jpg)
 
 # Board top
